@@ -1,2 +1,2 @@
 # senai-design
-Trabalhos realizados na disciplina de Design
+Trabalhos realizados na disciplina de Design SENAI
